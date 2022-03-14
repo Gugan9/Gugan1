@@ -1,4 +1,4 @@
 public static void main(String[]args){
 System.out.println("Gugan"+"9");
-
+System.out.println("99");
 }
